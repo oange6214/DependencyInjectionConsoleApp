@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SmtpServer": "pohan.com"
+      },
+      "remoteDebugEnabled": false
+    }
+  }
+}
